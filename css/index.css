@@ -89,6 +89,10 @@ button:hover{
     background: linear-gradient(to right bottom, #d8f99f,#afecee);
 }
 
+li{
+    text-decoration:none;
+}
+
 a {
     text-decoration: none;
     text-transform: uppercase;
