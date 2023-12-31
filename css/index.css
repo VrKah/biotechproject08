@@ -134,14 +134,14 @@ h1 {
     width: 40%;
     color: #860707;
 }
-/* .bach::before{
+.bach::before{
     display: flex;
     justify-content: flex-start;
     /* content: url(bulletin\(2\).png); */
     margin-right: -90px;
     /* overflow: hidden; */
 }
- */
+ 
 
 .mast{
     margin-top: -20px;
