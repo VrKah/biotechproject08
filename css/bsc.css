@@ -115,7 +115,7 @@ h1 {
     display: block;
 }
 
-.bach{
+/* .bach{
     margin-top: -20px;
     margin-left: 6%;
     display: flex;
@@ -137,7 +137,7 @@ h1 {
     display: flex;
     justify-content: flex-start;
     /* content: url(bulletin\(2\).png); */
-    margin-right: -90px;
+/*     margin-right: -90px; */
     /* overflow: hidden; */
 }
 
@@ -166,7 +166,7 @@ h1 {
     /* content: url(bulletin\(2\).png); */
     margin-right: -90px;
     /* overflow: hidden; */
-}
+} */
 
 .subsection {
     margin-top: -20px;
