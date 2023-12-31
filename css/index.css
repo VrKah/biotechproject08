@@ -89,9 +89,7 @@ button:hover{
     background: linear-gradient(to right bottom, #d8f99f,#afecee);
 }
 
-li{
-    text-decoration:none;
-}
+
 
 a {
     text-decoration: none;
@@ -136,14 +134,14 @@ h1 {
     width: 30%;
     color: #860707;
 }
-.bach::before{
+/* .bach::before{
     display: flex;
     justify-content: flex-start;
     /* content: url(bulletin\(2\).png); */
     margin-right: -90px;
     /* overflow: hidden; */
 }
-
+ */
 
 .mast{
     margin-top: -20px;
