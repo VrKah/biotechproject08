@@ -35,7 +35,7 @@ body {
 .main {
     display: flex;
     flex-direction: column;
-    background-image: url('https://vrkah.github.io/biotechproject08/icon/Landing_Page_1_1.png');
+    background-image: url('../icon/Landing_Page_1_1.png');
     text-align: start;
     margin-top: 15px;
 
