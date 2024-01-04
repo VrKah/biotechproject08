@@ -127,7 +127,7 @@ h1 {
     font-size: 4em;
     margin-top: 35px;
     margin-left: 6%;
-    color: rgb(31, 30, 30);
+    color: rgb(75, 21, 21);
     display: block;
 }
 
@@ -207,7 +207,7 @@ h1 {
 .subsection {
     margin-top: -20px;
     font-size: 3em;
-    color: black;
+    color: rgb(170, 168, 168);
   display: block;
   margin-left: 8%;
     
