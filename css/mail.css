@@ -57,6 +57,11 @@ body {
     font-size: 2.5em;
     text-transform: uppercase;
     margin-bottom: -1%;
+    color:#DBE9F4;
+}
+
+head p{
+    color:white;
 }
 
 .mailcolor{
