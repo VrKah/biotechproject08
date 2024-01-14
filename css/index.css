@@ -273,7 +273,7 @@ h1 {
    
 }
 
-@media (min-width:661px) and (max-width:1200px) {
+@media (min-width:661px) and (max-width:1500px) {
     .bsc{
         /* margin-left: -120px; */
         margin-left: 10%;
