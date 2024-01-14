@@ -177,10 +177,10 @@ h1 {
     
 }
 .sem-holder{
-    margin: 0%;
+    margin: 0%;                            
     display: flex;
     flex-direction: column;
-    
+    top: 0%;    
 }
 
 .content-container{
