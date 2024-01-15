@@ -172,12 +172,12 @@ h1 {
     text-align: start; 
 }
 .msc{
-    margin-left: 10%;
+    margin-left: 0%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
     text-align: start;
-    width: 71%;
+    width: 100%;
     font-size: 3em;
     color: #003d92;
 }
