@@ -280,6 +280,13 @@ h1 {
         width: 90%;
         font-size: 1.5em;
     }
+    .bsc button {
+    display: flex;
+    flex-direction: row;
+    width: 10.5em;
+    font-size: 1.0em;
+    justify-content: center;
+}
     .bach::before{
         display: flex;
         justify-content: flex-start;
@@ -293,6 +300,13 @@ h1 {
         width: 90%;
         font-size: 1.5em;
     }
+    .msc button {
+    display: flex;
+    flex-direction: row;
+    width: 10.5em;
+    font-size: 1.0em;
+    justify-content: center;
+}
     .subsection {
         margin-top: -20px;
         font-size: 1.2em;
