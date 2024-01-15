@@ -264,11 +264,22 @@ h1 {
     }
     .mast{
     margin-top: 0px;
+    margin-left: 11%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: start;
+    width: 77%;
+}
+    .msc{
     margin-left: 10%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    text-align: start; 
+    text-align: start;
+    width: 71%;
+    font-size: 3em;
+    color: #003d92;
 }
     .submain{
     display:flex;
