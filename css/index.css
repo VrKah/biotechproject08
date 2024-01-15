@@ -269,7 +269,7 @@ h1 {
     justify-content: flex-start;
     align-items: center;
     text-align: start;
-    width: 100%;
+/*     width: 100%; */
 }
     .msc{
     margin-left: 10%;
