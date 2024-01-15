@@ -123,8 +123,8 @@ h1 {
 }
 
 .bach{
-    margin-top: -20px;
-    margin-left: 6%;
+    margin-top: 0px;
+    margin-left: 0%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -137,7 +137,7 @@ h1 {
     align-items: center;
     text-align: start;
     font-size: 3em;
-    width: 40%;
+    width: 60%;
     color: #860707;
 }
 
@@ -164,20 +164,20 @@ h1 {
  
 
 .mast{
-    margin-top: 10px;
-    margin-left: 6%;
+    margin-top: 0px;
+    margin-left: 0%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
     text-align: start; 
 }
 .msc{
-    margin-left: 10%;
+    margin-left: 0%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
     text-align: start;
-    width: 40%;
+    width: 71%;
     font-size: 3em;
     color: #003d92;
 }
@@ -262,7 +262,14 @@ h1 {
         color: rgb(31, 30, 30);
         display: block;
     }
-    
+    .mast{
+    margin-top: 0px;
+    margin-left: 10%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: start; 
+}
     .submain{
     display:flex;
     flex-direction:column;
