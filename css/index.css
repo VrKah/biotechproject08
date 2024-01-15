@@ -344,8 +344,14 @@ h1 {
         font-size: 2em;
     }
     .msc{
-        font-size: 2em;
-        width: 70%;
+        margin-left: 10%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: start;
+    width: 78%;
+    font-size: 1.5em;
+    color: #003d92;
     }
 
 }
