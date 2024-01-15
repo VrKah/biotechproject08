@@ -301,7 +301,7 @@ h1 {
 @media (min-width:661px) and (max-width:1200px) {
     .submain{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: 100%;
     height: 100%;   
     }
