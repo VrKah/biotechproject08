@@ -50,7 +50,7 @@ body {
 .submain{
     display: flex;
     flex-direction: row;
-    width: 100%:
+    width: 100%;
     height: 100%;
     
 }
@@ -245,6 +245,14 @@ h1 {
         color: rgb(31, 30, 30);
         display: block;
     }
+    
+    .submain{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    }
+    
     .bach{
         margin-top: -20px;
         margin-left: 6%;
@@ -290,7 +298,13 @@ h1 {
    
 }
 
-@media (min-width:661px) and (max-width:1500px) {
+@media (min-width:661px) and (max-width:1200px) {
+    .submain{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;   
+    }
     .bsc{
         /* margin-left: -120px; */
         margin-left: 10%;
