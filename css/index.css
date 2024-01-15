@@ -47,6 +47,12 @@ body {
     
 }
 
+.submain{
+    display:flex;
+    flex-direction:row;
+    
+}
+
 .navbar {
     margin-top: 10px;
     float: right;
