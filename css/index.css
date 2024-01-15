@@ -264,7 +264,7 @@ h1 {
     }
     .mast{
     margin-top: 0px;
-    margin-left: 11%;
+    margin-left: 8%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -287,7 +287,7 @@ h1 {
     }
 
     .bach{
-        margin-top: -20px;
+        margin-top: 0px;
         margin-left: 6%;
         display: flex;
         justify-content: flex-start;
