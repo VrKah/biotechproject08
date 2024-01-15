@@ -278,7 +278,7 @@ h1 {
     align-items: center;
     text-align: start;
     width: 71%;
-    font-size: 3em;
+    font-size: 1.5em;
     color: #003d92;
 }
     .submain{
@@ -315,10 +315,6 @@ h1 {
         margin-right: -90px;
         overflow: hidden;
         background-size: 20px 20px;
-    }
-    .msc{
-        width: 90%;
-        font-size: 1.5em;
     }
     .subsection {
         margin-top: -20px;
