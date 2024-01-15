@@ -74,7 +74,7 @@ body {
 
 }
 
-button{
+.navitems button{
     box-shadow: 0px 2px 0px #afecee ;
     border: 2px solid transparent;
     border-radius: 10px;
@@ -90,7 +90,7 @@ button{
 
 }
 
-button:hover{
+.navitems button:hover{
     /* background: linear-gradient(to right bottom, #FFFCF9,#FFD166); */
     background: linear-gradient(to right bottom, #d8f99f,#afecee);
 }
