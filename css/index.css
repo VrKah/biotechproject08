@@ -234,6 +234,12 @@ h1 {
         color: rgb(31, 30, 30);
         display: block;
     }
+    
+    .submain{
+    display:flex;
+    flex-direction:column;
+    }
+
     .bach{
         margin-top: -20px;
         margin-left: 6%;
@@ -280,6 +286,12 @@ h1 {
 }
 
 @media (min-width:661px) and (max-width:1500px) {
+
+    .submain{
+    display:flex;
+    flex-direction:column;
+    }
+
     .bsc{
         /* margin-left: -120px; */
         margin-left: 10%;
