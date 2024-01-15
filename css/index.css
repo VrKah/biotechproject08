@@ -125,12 +125,11 @@ h1 {
 }
 
 .bach{
-    margin-top: 10px;
-    margin-left: 33%;
+    margin-top: -20px;
+    margin-left: 6%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    width: 69%;
     text-align: start;
 }
 .bsc{
@@ -146,9 +145,6 @@ h1 {
 .bsc button{
     display: flex;
     flex-direction: row;
-    width: 24.5em;
-    font-size: 1.1em;
-    justify-content: center;
     
 }
 .bach::before{
@@ -162,11 +158,12 @@ h1 {
 
 .mast{
     margin-top: 10px;
-    margin-left: -21%;
+    margin-left: 6%;
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    text-align: start;
+    text-align: start; 
+}
 .msc{
     margin-left: 10%;
     display: flex;
@@ -180,9 +177,6 @@ h1 {
 .msc button{
    display: flex;
     flex-direction: row;
-    width: 24.5em;
-    font-size: 1.1em;
-    justify-content: center;
 }
 .msc::before{
     display: flex;
@@ -280,13 +274,6 @@ h1 {
         width: 90%;
         font-size: 1.5em;
     }
-    .bsc button {
-    display: flex;
-    flex-direction: row;
-    width: 10.5em;
-    font-size: 1.0em;
-    justify-content: center;
-}
     .bach::before{
         display: flex;
         justify-content: flex-start;
@@ -300,13 +287,6 @@ h1 {
         width: 90%;
         font-size: 1.5em;
     }
-    .msc button {
-    display: flex;
-    flex-direction: row;
-    width: 10.5em;
-    font-size: 1.0em;
-    justify-content: center;
-}
     .subsection {
         margin-top: -20px;
         font-size: 1.2em;
