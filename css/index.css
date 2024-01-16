@@ -154,6 +154,10 @@ h1 {
   margin: 0em 0.2em 0.5em 0.2em;
   justify-content: space-between;
 }
+
+.bsc button:hover{
+    background:linear-gradient(to right bottom, #d8f99f,#afecee);
+}
 .bach::before{
     display: flex;
     justify-content: flex-start;
@@ -194,6 +198,9 @@ h1 {
   padding: 10px 2px;
   margin: 0em 0.2em 0.5em 0.2em;
   justify-content: space-between;
+}
+.msc button:hover{
+    background:linear-gradient(to right bottom, #d8f99f,#afecee);
 }
 .msc::before{
     display: flex;
