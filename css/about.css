@@ -209,6 +209,12 @@ h1 {
     /* overflow: hidden; */
 }
 
+.aboutus p{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+}
+
 .subsection {
     margin-top: -20px;
     font-size: 3em;
@@ -259,7 +265,7 @@ h1 {
 
 
 
-@media (min-width:360px) and (max-width:660px ){
+@media (min-width:320px) and (max-width:660px ){
     h1 {
         font-family: 'Bebas Neue', sans-serif;
         font-size: 2em;
@@ -321,6 +327,19 @@ h1 {
         margin-right: -90px;
         overflow: hidden;
         background-size: 20px 20px;
+    }
+    .aboutus{
+        margin-left: 0%;
+        font-size: 1em;
+        height: 80%;
+        width: 100%;
+        margin-top: 25px;
+        /* background-color: rgb(207, 139, 235); */
+        /* border: 2px solid black; */
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
     }
     .subsection {
         margin-top: -20px;
