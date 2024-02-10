@@ -209,11 +209,24 @@ h1 {
     /* overflow: hidden; */
 }
 .aboutus{
-    margin-left: 20%;
+    margin-left: 8%;
     font-size: 2em;
     height: 80%;
     width: 100%;
     margin-top: 25px;
+    /* background-color: rgb(207, 139, 235); */
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.contributor{
+    margin-left: 8%;
+    font-size: 1.8em;
+    height: 80%;
+    width: 100%;
+    margin-top: 0px;
     /* background-color: rgb(207, 139, 235); */
     /* border: 2px solid black; */
     display: flex;
@@ -342,11 +355,11 @@ h1 {
         background-size: 20px 20px;
     }
     .aboutus{
-        margin-left: 0%;
-        font-size: 1em;
+        margin-left: 6%;
+        font-size: 0.8em;
         height: 80%;
         width: 100%;
-        margin-top: 25px;
+        margin-top: 0px;
         /* background-color: rgb(207, 139, 235); */
         /* border: 2px solid black; */
         display: flex;
@@ -359,7 +372,7 @@ h1 {
         font-size: 1.2em;
         color: black;
       display: block;
-      margin-left: 8%;
+      margin-left: 7%;
         
     }
    
