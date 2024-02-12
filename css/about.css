@@ -235,7 +235,7 @@ h1 {
     justify-content: flex-start;
 }
 
-.contributors {
+.contributors .pname{
     border-bottom:2px solid black;
 }
 
