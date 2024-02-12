@@ -221,7 +221,7 @@ h1 {
     align-items: flex-start;
     justify-content: flex-start;
 }
-.contributor{
+.contributors{
     margin-left: 8%;
     font-size: 1.8em;
     height: 80%;
@@ -233,6 +233,10 @@ h1 {
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
+}
+
+contributors p:nth-of-type(3,7,11,15,19){
+    border-bottom:2px solid black;
 }
 
 .aboutus p{
