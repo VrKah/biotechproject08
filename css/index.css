@@ -268,7 +268,9 @@ h1 {
         font-size: 2em;
         margin-top: 35px;
         margin-left: 6%;
-        color: rgb(31, 30, 30);
+/*         color: rgb(31, 30, 30); */
+        color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px black;
         display: block;
     }
     .mast{
@@ -328,7 +330,9 @@ h1 {
     .subsection {
         margin-top: -20px;
         font-size: 1.2em;
-        color: black;
+/*         color: black; */
+        color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px black;
       display: block;
       margin-left: 8%;
         
