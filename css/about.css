@@ -240,6 +240,27 @@ h1 {
     border-bottom:2px solid black;
 }
 
+.confirst{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+}
+
+.con1{
+    displau:flex;
+    flex-direction:column;
+}
+.con2{
+    displau:flex;
+    flex-direction:column;
+}
+
+.consecond{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+}
+
 .aboutus p{
     display: flex;
     flex-direction: column;
