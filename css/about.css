@@ -344,6 +344,15 @@ span{
         color: rgb(31, 30, 30);
         display: block;
     }
+    h2{
+    margin-left: 0;
+/*     font-size: 6em; */
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(31, 30, 30);
+    display: block;
+}
     .mast{
     margin-top: 0px;
     margin-left: 5%;
