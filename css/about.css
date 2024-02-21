@@ -114,11 +114,15 @@ a {
 
 h1 {
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 4em;
+    font-size: 6em;
     margin-top: 35px;
     margin-left: 6%;
     color: rgb(31, 30, 30);
     display: block;
+}
+
+h2{
+    margin-left: 6%;
 }
 
 .bach{
@@ -271,12 +275,13 @@ h1 {
 }
 
 .subsection {
+    font-family: 'Bebas Neue', sans-serif;
     margin-top: -20px;
-    font-size: 3em;
+    font-size: 4em;
     color: black;
-  display: block;
-  margin-left: 8%;
-  margin-bottom: -5px;
+    display: block;
+    margin-left: 7%;
+    margin-bottom: -5px;
     
 }
 
