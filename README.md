@@ -1,6 +1,6 @@
 # biotechproject08
 
- Inital Build
+ Initial Build
  <br>
 Webpage for Biotech Pracs
 <br>
@@ -11,3 +11,5 @@ added bsc msc index and contact till yet
 <br>
 
 Next Build
+<br>
+content to be added
