@@ -37,7 +37,7 @@ body {
     background-image: url('../icon/indexbg.png');
     text-align: start;
     margin-top: 15px;
-
+    overflow-x: scroll;
     
     background-position: center center;
     background-size: cover;
