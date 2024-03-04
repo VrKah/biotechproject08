@@ -35,7 +35,7 @@ body {
 .main {
     display: flex;
     flex-direction: column;
-    background-image: url('../icon/Landing_Page_1_1.png');
+    /* background-image: url('../icon/Landing_Page_1_1.png'); */
     text-align: start;
     margin-top: 15px;
 
@@ -192,7 +192,7 @@ h1 {
     text-align: center;
     display: flex;
     flex-direction: column;
-    margin: 5px 0px;
+    margin: 15px 0px;
     border-radius: 5px;
     background-clip: text;
     background: linear-gradient(to right, #cfcfcf,rgb(173, 173, 173),#5caedd);
