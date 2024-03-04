@@ -44,7 +44,7 @@ body {
     background-position: center center;
     background-size: cover;
     
-    min-height: 1400px;
+    min-height: 1200px;
     
 }
 
@@ -168,14 +168,14 @@ h1 {
     /* overflow: hidden; */
 }
 
-.subsection {
+/* .subsection {
     margin-top: -20px;
     font-size: 3em;
     color: rgb(170, 168, 168);
   display: block;
   margin-left: 8%;
     
-}
+} */
 
 .content-container{
     display: flex;
