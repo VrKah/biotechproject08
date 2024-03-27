@@ -36,7 +36,8 @@ body {
     
     display: flex;
     flex-direction: column;
-    background-image: url(Landing_Page_1_1.png);
+    background-color: #f0f0f0; /* White background */
+    /* background-image: url(Landing_Page_1_1.png); */
     text-align: start;
     margin-top: 15px;
 
