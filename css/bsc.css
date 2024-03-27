@@ -270,7 +270,7 @@ h1 {
 }
 .nextpge p{
     margin-right: 10px;
-    color: white;
+    color: rgb(66, 0, 0);
 }
 #before::before{
     content: url(11111.png);
