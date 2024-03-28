@@ -265,12 +265,12 @@ h1 {
     margin-left: 5px;
     border: 2px solid black;
     border-radius: 25%;
-    background: linear-gradient(to right, #FFFCF9,#FFD166);
+    background: linear-gradient(to right, #b8dcfa,#6682ff);
 }
 .prevpge p{
     margin-left: 5px;
     margin-right: 5px;
-    color: white;
+    color: rgb(32, 32, 32);
 }
 #before::before{
     content: url(11111.png);
