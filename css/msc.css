@@ -35,7 +35,8 @@ body {
 .main {
     display: flex;
     flex-direction: column;
-    background-image: url('../icon/Landing_Page_1_1.png');
+    background-color: #f0f0f0; /* White background */
+    /* background-image: url('../icon/Landing_Page_1_1.png'); */
     text-align: start;
     margin-top: 15px;
 
@@ -170,7 +171,8 @@ h1 {
 .subsection {
     margin-top: -20px;
     font-size: 3em;
-    color: rgb(170, 168, 168);
+    color: rgb(0, 112, 240);
+    /* color: rgb(170, 168, 168); */
   display: block;
   margin-left: 8%;
     
@@ -484,7 +486,7 @@ h1 {
         width: 118%;
         font-size: 3.5em;
         background-clip: text;
-        background: linear-gradient(to top left, #d8f99f,#afecee);
+        background: linear-gradient(to top left, #0A192F,#afecee);
         background-clip: text;
         -webkit-background-clip: text;
         -moz-background-clip: text;
