@@ -255,7 +255,7 @@ h1 {
     top: 0;
     width: 100%;
     /* background: rgba(225,239,254); */
-    background: linear-gradient(to bottom, rgb(199, 233, 248),#5f96dd);
+    background: linear-gradient(to bottom, rgb(170, 226, 250),#08346d);
     opacity: 99%;
     box-shadow: 0px 5px 8px #2b4468;
   }
