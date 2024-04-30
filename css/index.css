@@ -5,7 +5,9 @@ body {
     flex-direction: column;
     min-height: 100vh;
     margin: 0;
+    background-image: linear-gradient(to left top, #3ab5b0, #00a9bf, #009acd, #0087d4, #2a71cf, #4d62c2, #6353b3, #7342a1, #6c3e97, #64398d, #5d3584, #56317a);
 }
+
 
  .header {
 
@@ -43,8 +45,7 @@ body {
     background-size: cover;
     
     min-height: 1200px;
-    background-image: linear-gradient(to left top, #3ab5b0, #00a9bf, #009acd, #0087d4, #2a71cf, #4d62c2, #6353b3, #7342a1, #6c3e97, #64398d, #5d3584, #56317a);
-}
+}    
 
 .submain{
     display:flex;
