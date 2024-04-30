@@ -209,7 +209,7 @@ h1 {
     /* border: 2px solid rgb(17, 0, 250); */
 }
 
-semcol{
+.semcol{
     margin-bottom: 10%;
     box-shadow: #003d92;
     width: 118%;
