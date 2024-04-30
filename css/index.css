@@ -217,7 +217,7 @@ h1 {
 .subsection {
     margin-top: -20px;
     font-size: 3em;
-    color: white;
+    color:linear-gradient(to top left, #0A192F,#afecee);
     text-shadow: 2px 2px 2px black;
   display: block;
   margin-left: 8%;
